@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GunMoveMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Player
+    m_Weight: 0
+  - m_Path: Rig
+    m_Weight: 0
+  - m_Path: Rig/FootControl.L
+    m_Weight: 0
+  - m_Path: Rig/FootControl.L/Ankle.L.003
+    m_Weight: 0
+  - m_Path: Rig/FootControl.L/Ankle.L.003/Ankle.L.001
+    m_Weight: 0
+  - m_Path: Rig/FootControl.L/Ankle.L.003/Ankle.L.001/PoleIK.L
+    m_Weight: 0
+  - m_Path: Rig/FootControl.L/Ankle.L.003/Ankle.L.001/PoleIK.L/PoleIK.L_end
+    m_Weight: 0
+  - m_Path: Rig/FootControl.L/Ankle.L.003/AnklePole.L
+    m_Weight: 0
+  - m_Path: Rig/FootControl.L/Ankle.L.003/AnklePole.L/AnklePole.L_end
+    m_Weight: 0
+  - m_Path: Rig/FootControl.L/Ankle.L.003/BallPole.L
+    m_Weight: 0
+  - m_Path: Rig/FootControl.L/Ankle.L.003/BallPole.L/BallPole.L_end
+    m_Weight: 0
+  - m_Path: Rig/FootControl.L/HeelControl.L
+    m_Weight: 0
+  - m_Path: Rig/FootControl.L/HeelControl.L/HeelControl.L_end
+    m_Weight: 0
+  - m_Path: Rig/FootControl.R
+    m_Weight: 0
+  - m_Path: Rig/FootControl.R/Ankle.R.003
+    m_Weight: 0
+  - m_Path: Rig/FootControl.R/Ankle.R.003/Ankle.R.001
+    m_Weight: 0
+  - m_Path: Rig/FootControl.R/Ankle.R.003/Ankle.R.001/PoleIK.R
+    m_Weight: 0
+  - m_Path: Rig/FootControl.R/Ankle.R.003/Ankle.R.001/PoleIK.R/PoleIK.R_end
+    m_Weight: 0
+  - m_Path: Rig/FootControl.R/Ankle.R.003/AnklePole.R
+    m_Weight: 0
+  - m_Path: Rig/FootControl.R/Ankle.R.003/AnklePole.R/AnklePole.R_end
+    m_Weight: 0
+  - m_Path: Rig/FootControl.R/Ankle.R.003/BallPole.R
+    m_Weight: 0
+  - m_Path: Rig/FootControl.R/Ankle.R.003/BallPole.R/BallPole.R_end
+    m_Weight: 0
+  - m_Path: Rig/FootControl.R/HeelControl.R
+    m_Weight: 0
+  - m_Path: Rig/FootControl.R/HeelControl.R/HeelControl.R_end
+    m_Weight: 0
+  - m_Path: Rig/Hip
+    m_Weight: 0
+  - m_Path: Rig/Hip/Pelvis.L
+    m_Weight: 0
+  - m_Path: Rig/Hip/Pelvis.L/UpperLeg.L
+    m_Weight: 0
+  - m_Path: Rig/Hip/Pelvis.L/UpperLeg.L/LowerLeg.L
+    m_Weight: 0
+  - m_Path: Rig/Hip/Pelvis.L/UpperLeg.L/LowerLeg.L/Ankle.L
+    m_Weight: 0
+  - m_Path: Rig/Hip/Pelvis.L/UpperLeg.L/LowerLeg.L/Ankle.L/Ball.L
+    m_Weight: 0
+  - m_Path: Rig/Hip/Pelvis.L/UpperLeg.L/LowerLeg.L/Ankle.L/Ball.L/Ball.L_end
+    m_Weight: 0
+  - m_Path: Rig/Hip/Pelvis.R
+    m_Weight: 0
+  - m_Path: Rig/Hip/Pelvis.R/UpperLeg.R
+    m_Weight: 0
+  - m_Path: Rig/Hip/Pelvis.R/UpperLeg.R/LowerLeg.R
+    m_Weight: 0
+  - m_Path: Rig/Hip/Pelvis.R/UpperLeg.R/LowerLeg.R/Ankle.R
+    m_Weight: 0
+  - m_Path: Rig/Hip/Pelvis.R/UpperLeg.R/LowerLeg.R/Ankle.R/Ball.R
+    m_Weight: 0
+  - m_Path: Rig/Hip/Pelvis.R/UpperLeg.R/LowerLeg.R/Ankle.R/Ball.R/Ball.R_end
+    m_Weight: 0
+  - m_Path: Rig/Hip/Spine1
+    m_Weight: 0
+  - m_Path: Rig/Hip/Spine1/Spine2
+    m_Weight: 0
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3
+    m_Weight: 0
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Clavicle.L
+    m_Weight: 0
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Clavicle.L/UpperArm.L
+    m_Weight: 1
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Clavicle.L/UpperArm.L/LowerArm.L
+    m_Weight: 1
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Clavicle.L/UpperArm.L/LowerArm.L/Hand.L
+    m_Weight: 1
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Clavicle.L/UpperArm.L/LowerArm.L/Hand.L/Finger.L
+    m_Weight: 1
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Clavicle.L/UpperArm.L/LowerArm.L/Hand.L/Finger.L/Finger.L_end
+    m_Weight: 0
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Clavicle.R
+    m_Weight: 0
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Clavicle.R/UpperArm.R
+    m_Weight: 0
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Clavicle.R/UpperArm.R/LowerArm.R
+    m_Weight: 0
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Clavicle.R/UpperArm.R/LowerArm.R/Hand.R
+    m_Weight: 0
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Clavicle.R/UpperArm.R/LowerArm.R/Hand.R/Finger.R
+    m_Weight: 0
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Clavicle.R/UpperArm.R/LowerArm.R/Hand.R/Finger.R/Finger.R_end
+    m_Weight: 0
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Neck
+    m_Weight: 0
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Neck/Head
+    m_Weight: 0
+  - m_Path: Rig/Hip/Spine1/Spine2/Spine3/Neck/Head/Head_end
+    m_Weight: 0
+  - m_Path: Rig/KneeIK.L
+    m_Weight: 0
+  - m_Path: Rig/KneeIK.L/KneeIK.L_end
+    m_Weight: 0
+  - m_Path: Rig/KneeIK.R
+    m_Weight: 0
+  - m_Path: Rig/KneeIK.R/KneeIK.R_end
+    m_Weight: 0
